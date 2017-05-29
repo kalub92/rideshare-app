@@ -19,6 +19,7 @@ sudo gem install cocoapods`
 To install the required dependencies for building the project.
 
 ### Installing ###
+
 To install the app on a device for testing, simply connect your device, chose it in the device list in Xcode and click on Run.
 
 ### Who do I talk to? ###

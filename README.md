@@ -1,4 +1,4 @@
-# Devslopes Ridesharing App Course #
+# Devslopes Ridesharing App Course: Source Code #
 
 ![htchhkr-banner.png](https://bitbucket.org/repo/R9ryBKp/images/3251343947-htchhkr-banner.png)
 

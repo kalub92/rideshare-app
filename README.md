@@ -7,7 +7,7 @@ This repository accompanies the Ridesharing App course from Devslopes available 
 [Devslopes: Learn to Code - https://itunes.apple.com/ca/app/devslopes-learn-programming-app-development/id1087131850?mt=8](https://itunes.apple.com/ca/app/devslopes-learn-programming-app-development/id1087131850?mt=8)
 
 ### Getting Started ###
-This repository is private and for use by authorized Devslopes personnel only. These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+This repository is intended for use by Devslopes students although it is available to the general public. These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisities ###
 

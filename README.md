@@ -1,6 +1,6 @@
 # Devslopes Ridesharing App Course #
 
-![htchhkr-banner.png](https://bitbucket.org/repo/R9ryBKp/images/3921924210-htchhkr-banner.png)
+![htchhkr-banner.png](https://bitbucket.org/repo/R9ryBKp/images/3251343947-htchhkr-banner.png)
 
 This repository accompanies the Ridesharing App course from Devslopes available in the 'Learn to Code' app available on the iOS, macOS, and tvOS App Store.
 

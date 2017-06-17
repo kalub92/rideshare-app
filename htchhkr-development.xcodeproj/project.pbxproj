@@ -20,6 +20,7 @@
 		71289DE81EB4749B00FD1AAB /* RoundedCornerTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71289DE71EB4749B00FD1AAB /* RoundedCornerTextField.swift */; };
 		71289DEA1EB4759100FD1AAB /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71289DE91EB4759100FD1AAB /* LoginVC.swift */; };
 		712C6BE21EC085B000A32C00 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712C6BE11EC085B000A32C00 /* Constants.swift */; };
+		713017EC1EF5BDE700871BB2 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 713017EB1EF5BDE700871BB2 /* GoogleService-Info.plist */; };
 		719DA0481EB58A71007DB157 /* UpdateService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DA0471EB58A71007DB157 /* UpdateService.swift */; };
 		719DA04A1EB592DF007DB157 /* DriverAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DA0491EB592DF007DB157 /* DriverAnnotation.swift */; };
 		719DA04C1EB5B996007DB157 /* PassengerAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DA04B1EB5B996007DB157 /* PassengerAnnotation.swift */; };
@@ -27,7 +28,6 @@
 		719DA0501EB6E9FD007DB157 /* Alertable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DA04F1EB6E9FD007DB157 /* Alertable.swift */; };
 		719DA0521EB73728007DB157 /* PickupVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DA0511EB73728007DB157 /* PickupVC.swift */; };
 		719DA0541EB737D9007DB157 /* RoundMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719DA0531EB737D9007DB157 /* RoundMapView.swift */; };
-		71A09BF91EB48ECC0030E820 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 71A09BF81EB48ECC0030E820 /* GoogleService-Info.plist */; };
 		71A09BFC1EB491320030E820 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A09BFB1EB491320030E820 /* DataService.swift */; };
 		71F519251EB1FB4F000932E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F519241EB1FB4F000932E6 /* AppDelegate.swift */; };
 		71F5192A1EB1FB4F000932E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71F519281EB1FB4F000932E6 /* Main.storyboard */; };
@@ -51,6 +51,7 @@
 		71289DE71EB4749B00FD1AAB /* RoundedCornerTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedCornerTextField.swift; sourceTree = "<group>"; };
 		71289DE91EB4759100FD1AAB /* LoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		712C6BE11EC085B000A32C00 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		713017EB1EF5BDE700871BB2 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		719DA0471EB58A71007DB157 /* UpdateService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UpdateService.swift; sourceTree = "<group>"; };
 		719DA0491EB592DF007DB157 /* DriverAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DriverAnnotation.swift; sourceTree = "<group>"; };
 		719DA04B1EB5B996007DB157 /* PassengerAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PassengerAnnotation.swift; sourceTree = "<group>"; };
@@ -58,7 +59,6 @@
 		719DA04F1EB6E9FD007DB157 /* Alertable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alertable.swift; sourceTree = "<group>"; };
 		719DA0511EB73728007DB157 /* PickupVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickupVC.swift; sourceTree = "<group>"; };
 		719DA0531EB737D9007DB157 /* RoundMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundMapView.swift; sourceTree = "<group>"; };
-		71A09BF81EB48ECC0030E820 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		71A09BFB1EB491320030E820 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		71F519211EB1FB4F000932E6 /* htchhkr-development.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "htchhkr-development.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71F519241EB1FB4F000932E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -185,7 +185,7 @@
 				71F5192B1EB1FB4F000932E6 /* Assets.xcassets */,
 				71F5192D1EB1FB4F000932E6 /* LaunchScreen.storyboard */,
 				71F519301EB1FB4F000932E6 /* Info.plist */,
-				71A09BF81EB48ECC0030E820 /* GoogleService-Info.plist */,
+				713017EB1EF5BDE700871BB2 /* GoogleService-Info.plist */,
 			);
 			path = "htchhkr-development";
 			sourceTree = "<group>";
@@ -271,7 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71F5192F1EB1FB4F000932E6 /* LaunchScreen.storyboard in Resources */,
-				71A09BF91EB48ECC0030E820 /* GoogleService-Info.plist in Resources */,
+				713017EC1EF5BDE700871BB2 /* GoogleService-Info.plist in Resources */,
 				71F5192C1EB1FB4F000932E6 /* Assets.xcassets in Resources */,
 				71F5192A1EB1FB4F000932E6 /* Main.storyboard in Resources */,
 			);
@@ -482,7 +482,7 @@
 				DEVELOPMENT_TEAM = HLCDLFXF5Y;
 				INFOPLIST_FILE = "htchhkr-development/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.stultzapps.htchhkr-development";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stultzapps.htchhkr-dev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -496,7 +496,7 @@
 				DEVELOPMENT_TEAM = HLCDLFXF5Y;
 				INFOPLIST_FILE = "htchhkr-development/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.stultzapps.htchhkr-development";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stultzapps.htchhkr-dev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};

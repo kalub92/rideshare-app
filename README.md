@@ -23,6 +23,10 @@ This will install cocoapods on your system. Once that is done, do:
 
 To install the required dependencies for building the project.
 
+Next, go to your [Firebase console](https://console.firebase.google.com) and create a new project. Click `Add Firebase to your iOS app` and run through the Quickstart setup instructions. At the end, you can download a `Info.plist` file from Firebase. 
+
+Drag it into your project as instructed by Firebase and delete the one that's already in the project.
+
 ### Installing ###
 
 To install the app on a device for testing, simply connect your device, chose it in the device list in Xcode and click on Run.
